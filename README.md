@@ -22,7 +22,7 @@
 |  Característica |  Información |
 | :------------: | :------------: |
 | Nombre  |  Práctica 7: Movie App |
-| Descripción  |  Dentro de esta aplicación se comienza el contexto de peliculas, en el cual se tiene que presentar un Drawer y un bottomNavigationBar. Para despues ser conectada a la API de MOVIEDB. Para esto, se hacen modificaciones de estilización. Como cambio de colores, cambio de fuente y un icono diferente al trabajado en practicas anteriores. |
+| Descripción  |  Dentro de esta aplicación se comienza el contexto de peliculas, en el cual se tiene que presentar un Drawer y un bottomNavigationBar. Para despues ser conectada a la api de moviedb. Para esto, se hacen modificaciones de estilización. Como cambio de colores, cambio de fuente y un icono diferente al trabajado en practicas anteriores. |
 |  Fecha de Actividad  |  20 de Septiembre de 2023  |
 
 &nbsp;
